@@ -1,0 +1,2 @@
+# text
+bu benim respository
